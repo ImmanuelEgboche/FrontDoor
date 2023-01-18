@@ -6,7 +6,7 @@
 
 ## Vision
 
-![](overall.png)
+![](wirefram.png)
 
 ## Backend
 
@@ -23,6 +23,8 @@
 
 
 ## FrontEnd
+
+![](overall.png)
 
 - We will be using react native for quick shipping 
 
